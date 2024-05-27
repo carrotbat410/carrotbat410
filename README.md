@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrotbat410&layout=compact&theme=dracula)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CarrotBat410%20&fontSize=90)
+
 <!--
 **carrotbat410/carrotbat410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
