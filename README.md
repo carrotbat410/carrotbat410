@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CarrotBat410%20&fontSize=90)
 
 
-<h3 align="center"> 💻 Tech Stack 💻</h3>
+<h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
   Language:
@@ -27,12 +27,18 @@
   <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat-square&logo=GitHub Actions&logoColor=2088FF"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS(EC2, RDS, S3, CodeDeploy)-353E47?style=flat-square&logo=Amazon AWS&logoColor=FF9900"/></a>&nbsp 
 </p>
+<br>
 
 <h3 align="center"> 📫 About Me</h3>
 <p align="center">
   <a href="https://velog.io/@carrotbat410/posts"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
   <a href="mailto:carrotbat410@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
-    
-<br><br>
+<br>
 
+<h3 align="center"> 📚 My Algorithm Level is ...</h3>
+<p align="center">
+  <a href="https://solved.ac/carrotbat410/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=carrotbat410" alt="Solved.ac Profile">
+  </a>
+</p>
