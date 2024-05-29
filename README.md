@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CarrotBat410%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7a907&height=250&section=header&text=CarrotBat410%20&fontSize=90&fontColor=08012e)
 
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
