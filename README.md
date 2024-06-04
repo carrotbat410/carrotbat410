@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=Ubuntu&logoColor=2496ED"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=3232FF"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat-square&logo=GitHub Actions&logoColor=2088FF"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon AWS(EC2, RDS, S3, CodeDeploy)-353E47?style=flat-square&logo=Amazon AWS&logoColor=FF9900"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon AWS(EC2, RDS, S3, CodeDeploy)-353E47?style=flat-square&logo=Amazon&logoColor=FF9900"/></a>&nbsp 
 </p>
 <br>
 
