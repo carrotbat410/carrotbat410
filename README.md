@@ -22,10 +22,11 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
   <br><br>
   ETC: 
-  <img src="https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=Ubuntu&logoColor=2496ED"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=3232FF"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat-square&logo=GitHub Actions&logoColor=2088FF"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS(EC2, RDS, S3, CodeDeploy)-353E47?style=flat-square&logo=Amazon&logoColor=FF9900"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jmeter-white?style=flat-square&logo=apachejmeter&logoColor=2088FF"/></a>&nbsp 
 </p>
 <br>
 
