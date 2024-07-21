@@ -48,11 +48,6 @@
   </a>
 </p>
 
-<h3 align="center"> 🔥Study Log🔥</h3>
-<p align="center">
-  <img width="769" alt="스크린샷 2024-06-12 오후 1 58 39" src="https://github.com/carrotbat410/carrotbat410/assets/163713062/d0bc9456-25a3-4f51-a096-9f74a4859b86">
-  <img width="769" alt="스크린샷 2024-06-12 오후 1 48 20" src="https://github.com/carrotbat410/carrotbat410/assets/163713062/c35d3a4a-7ff2-42b1-8bc4-5dd15ef07c93">
-</p>
 
 
 
